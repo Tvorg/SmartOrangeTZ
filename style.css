@@ -1,0 +1,48 @@
+input{
+    padding: 5px;
+    margin: 5px 0px 0px 0px;
+}
+
+.user_form{
+    display: flex;
+    width: 15%;
+    flex-wrap: wrap;
+    border: 2px solid darkgrey;
+    padding: 20px;
+}
+.input_text{
+    color: #3C3F41;
+    font-size: 20px;
+    font-family: Cambria;
+    margin: 0 auto;
+}
+
+input_button{
+    margin-top: 10px ;
+    background-color: darkgrey;
+    border-box: grey;
+    border: gray;
+    width: 40%;
+    height: 30px;
+    color: aliceblue;
+}
+ul{
+    padding: 0;
+}
+
+li{
+    display: flex;
+    width: 15%;
+    justify-content: start;
+    flex-wrap: wrap;
+    border: 2px solid darkgrey;
+    padding: 20px;
+}
+span{
+    width: 100%;
+    margin-right: 20px;
+    margin-bottom: 5px;
+}
+button{
+    margin-right: 10px;
+}
